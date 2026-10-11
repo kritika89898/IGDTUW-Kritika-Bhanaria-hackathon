@@ -1,0 +1,2 @@
+# This project uses Node.js; see package.json and pnpm-lock.yaml.
+# Runtime: Node.js 20+; package manager: pnpm 10.12.1.
